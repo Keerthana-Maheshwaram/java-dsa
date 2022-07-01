@@ -16,6 +16,7 @@ public class Subseqsum2 {
         ArrayList<Integer> arrl=new ArrayList<Integer>();
         int j= subSeqSumK(0, arrl, 0, sum, arr, n);
         System.out.println(j);
+        
 
         sc.close();
     }
